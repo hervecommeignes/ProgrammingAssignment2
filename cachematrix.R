@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+# theses functions enables to cache the inverse of a matrix
+# saving the time to re-calculate it
 
 ## Write a short comment describing this function
 # makeCacheMatrix returns a list of function to access a matrix & its inverse.
